@@ -1,0 +1,112 @@
+export const chaptersData = {
+  chapters: [
+    {
+      number: 1,
+      name: "Arjuna Vishada Yoga",
+      nameOdia: "ଅର୍ଜୁନ ବିଷାଦ ଯୋଗ",
+      verses: 47,
+    },
+    {
+      number: 2,
+      name: "Sankhya Yoga",
+      nameOdia: "ସାଂଖ୍ୟ ଯୋଗ",
+      verses: 72,
+    },
+    {
+      number: 3,
+      name: "Karma Yoga",
+      nameOdia: "କର୍ମ ଯୋଗ",
+      verses: 43,
+    },
+    {
+      number: 4,
+      name: "Jnana Karma Sanyasa Yoga",
+      nameOdia: "ଜ୍ଞାନ କର୍ମ ସନ୍ୟାସ ଯୋଗ",
+      verses: 42,
+    },
+    {
+      number: 5,
+      name: "Karma Sanyasa Yoga",
+      nameOdia: "କର୍ମ ସନ୍ୟାସ ଯୋଗ",
+      verses: 29,
+    },
+    {
+      number: 6,
+      name: "Dhyana Yoga",
+      nameOdia: "ଧ୍ୟାନ ଯୋଗ",
+      verses: 47,
+    },
+    {
+      number: 7,
+      name: "Jnana Vijnana Yoga",
+      nameOdia: "ଜ୍ଞାନ ବିଜ୍ଞାନ ଯୋଗ",
+      verses: 30,
+    },
+    {
+      number: 8,
+      name: "Aksara Brahma Yoga",
+      nameOdia: "ଅକ୍ଷର ବ୍ରହ୍ମ ଯୋଗ",
+      verses: 28,
+    },
+    {
+      number: 9,
+      name: "Raja Vidya Raja Guhya Yoga",
+      nameOdia: "ରାଜ ବିଦ୍ୟା ରାଜ ଗୁହ୍ୟ ଯୋଗ",
+      verses: 34,
+    },
+    {
+      number: 10,
+      name: "Vibhuti Yoga",
+      nameOdia: "ବିଭୂତି ଯୋଗ",
+      verses: 42,
+    },
+    {
+      number: 11,
+      name: "Visvarupa Darsana Yoga",
+      nameOdia: "ବିଶ୍ୱରୂପ ଦର୍ଶନ ଯୋଗ",
+      verses: 55,
+    },
+    {
+      number: 12,
+      name: "Bhakti Yoga",
+      nameOdia: "ଭକ୍ତି ଯୋଗ",
+      verses: 20,
+    },
+    {
+      number: 13,
+      name: "Ksetra Ksetrajna Vibhaga Yoga",
+      nameOdia: "କ୍ଷେତ୍ର କ୍ଷେତ୍ରଜ୍ଞ ବିଭାଗ ଯୋଗ",
+      verses: 35,
+    },
+    {
+      number: 14,
+      name: "Gunatraya Vibhaga Yoga",
+      nameOdia: "ଗୁଣତ୍ରୟ ବିଭାଗ ଯୋଗ",
+      verses: 27,
+    },
+    {
+      number: 15,
+      name: "Purusottama Yoga",
+      nameOdia: "ପୁରୁଷୋତ୍ତମ ଯୋଗ",
+      verses: 20,
+    },
+    {
+      number: 16,
+      name: "Daivasura Sampad Vibhaga Yoga",
+      nameOdia: "ଦୈବାସୁର ସମ୍ପଦ ବିଭାଗ ଯୋଗ",
+      verses: 24,
+    },
+    {
+      number: 17,
+      name: "Sraddhatraya Vibhaga Yoga",
+      nameOdia: "ଶ୍ରଦ୍ଧାତ୍ରୟ ବିଭାଗ ଯୋଗ",
+      verses: 28,
+    },
+    {
+      number: 18,
+      name: "Moksa Sannyasa Yoga",
+      nameOdia: "ମୋକ୍ଷ ସନ୍ନ୍ୟାସ ଯୋଗ",
+      verses: 78,
+    },
+  ],
+};
